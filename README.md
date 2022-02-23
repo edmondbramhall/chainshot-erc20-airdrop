@@ -1,0 +1,1 @@
+# chainshot-erc20-airdrop
